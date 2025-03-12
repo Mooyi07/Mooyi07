@@ -22,7 +22,7 @@
 
 - 📫 How to reach me **ljt.villanueva@gmail.com**
 
-- 📄 Know about my experiences [https://mooyi.pages.dev/assets/VILLANUEVA_LANZ_JOSEP_TARROSA_RESUME.pdf](https://mooyi.pages.dev/assets/VILLANUEVA_LANZ_JOSEP_TARROSA_RESUME.pdf)
+- 📄 Know about my experiences [https://mooyi.pages.dev/assets/LJTV_RESUME.pdf](https://mooyi.pages.dev/assets/LJTV_RESUME.pdf)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
