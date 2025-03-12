@@ -6,7 +6,13 @@
   </ul>
 </div>
 
-<summary><h3 align="center">Just a fellow Computer Engineering student at Technological University of the Philippines - Visayas!!</h3></summary>
+<div id="toc"> <!-- both work, toc or user-content-toc -->
+  <ul style="list-style: none;">
+    <summary>
+      <h3 align="center">Just a fellow Computer Engineering student at Technological University of the Philippines - Visayas!!</h3>
+    </summary>
+  </ul>
+</div>
 
 - 🌱 I’m currently learning **Node.js, React.js**
 
