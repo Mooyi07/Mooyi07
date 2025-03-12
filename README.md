@@ -1,6 +1,6 @@
-<ul style="list-style: none;" align="center"><summary><h1 align="center"><img width="100" src="https://mooyi.pages.dev/assets/logo.webp" alt="mooyi07_logo" /></h1></summary></ul>
+<h1 align="center"><img width="100" src="https://mooyi.pages.dev/assets/logo.webp" alt="mooyi07_logo" /></h1>
 
-<summary><h2 align="center">Hello fellow programmer👋, I'm Lanz Joseph Tarrosa Villanueva</h2></summary>
+<ul style="list-style: none;"><h2 align="center">Hello fellow programmer👋, I'm Lanz Joseph Tarrosa Villanueva</h2></ul>
 
 <summary><h3 align="center">Just a fellow Computer Engineering student at Technological University of the Philippines - Visayas!!</h3></summary>
 
