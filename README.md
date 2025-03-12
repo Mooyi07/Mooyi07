@@ -1,6 +1,8 @@
-<h1 align="center"><img width="100" src="https://mooyi.pages.dev/assets/logo.webp" alt="mooyi07_logo" /></h1>
-<h2 align="center">Hello fellow programmer👋, I'm Lanz Joseph Tarrosa Villanueva</h2>
-<h3 align="center">Just a fellow Computer Engineering student at Technological University of the Philippines - Visayas!!</h3>
+<summary><h1 align="center"><img width="100" src="https://mooyi.pages.dev/assets/logo.webp" alt="mooyi07_logo" /></h1></summary>
+
+<summary><h2 align="center">Hello fellow programmer👋, I'm Lanz Joseph Tarrosa Villanueva</h2></summary>
+
+<summary><h3 align="center">Just a fellow Computer Engineering student at Technological University of the Philippines - Visayas!!</h3></summary>
 
 - 🌱 I’m currently learning **Node.js, React.js**
 
