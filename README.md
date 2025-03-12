@@ -2,7 +2,9 @@
 
 <div id="user-content-toc">
   <ul style="list-style: none;">
-    <h2 align="center">Hello fellow programmer👋, I'm Lanz Joseph Tarrosa Villanueva</h2>
+    <summary>
+      <h2 align="center">Hello fellow programmer👋, I'm Lanz Joseph Tarrosa Villanueva</h2>
+    </summary>
   </ul>
 </div>
 
