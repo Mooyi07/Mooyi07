@@ -1,5 +1,5 @@
 <h1 align="center">Hello fellow programmer👋, I'm Lanz Joseph Tarrosa Villanueva</h1>
-<h3 align="center">I'm just a Computer Engineering student at Technological University of the Philippines - Visayas</h3>
+<h3 align="center">Just a fellow Computer Engineering student at Technological University of the Philippines - Visayas!!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mooyi07&label=Profile%20views&color=0e75b6&style=flat" alt="mooyi07" /> </p>
 
