@@ -49,8 +49,6 @@
 
 <h3 align="center">GitHub Stats 📊</h3>
 
-<h3 align="center">GitHub Stats 📊</h3>
-
 <div align="center" style="display: flex; justify-content: center; flex-wrap: wrap; gap: 10px;">
   <img src="https://github-readme-stats.vercel.app/api?username=mooyi07&show_icons=true&theme=radical" alt="GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mooyi07&layout=compact&theme=radical" alt="Top Languages" />
