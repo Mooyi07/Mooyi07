@@ -49,12 +49,14 @@
 
 <h3 align="center">GitHub Stats 📊</h3>
 
-<p align="center">
+<div>
+  <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=mooyi07&show_icons=true&theme=radical" alt="GitHub Stats" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mooyi07&layout=compact&theme=radical" alt="Top Languages" />
-</p>
+  </p>
+  <p align="center">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mooyi07&layout=compact&theme=radical" alt="Top Languages" />
+  </p>
+</div>
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=mooyi07&theme=radical" alt="GitHub Streak" />
 </p>
