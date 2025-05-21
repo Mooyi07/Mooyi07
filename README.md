@@ -12,8 +12,8 @@
   <a href="mailto:ljt.villanueva@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact-0e75b6?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://mooyi.pages.dev/assets/VILLANUEVA_LANZ_JOSEP_TARROSA_RESUME.pdf" download>
-    <img src="https://img.shields.io/badge/Resume-View-0e75b6?style=for-the-badge&logo=readthedocs&logoColor=white" />
+  <a href="https://mooyi.pages.dev/assets/VILLANUEVA_LANZ_JOSEP_TARROSA_RESUME.pdf" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Resume-Open-0e75b6?style=for-the-badge&logo=readthedocs&logoColor=white" />
   </a>
 </p>
 
