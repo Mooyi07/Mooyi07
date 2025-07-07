@@ -3,7 +3,7 @@
 </h1>
 
 <h1 align="center">Hi there 👋, I'm Lanz Joseph Tarrosa Villanueva</h1>
-<h3 align="center">Computer Engineering Student | Technological University of the Philippines - Visayas</h3>
+<h3 align="center">Computer Engineer | Technological University of the Philippines - Visayas</h3>
 
 <p align="center">
   <a href="https://mooyi.pages.dev/" target="_blank">
