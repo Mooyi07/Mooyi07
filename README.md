@@ -1,63 +1,64 @@
+<!-- Profile Header -->
 <h1 align="center">
   <img src="https://mooyi.pages.dev/assets/logo.webp" width="100" alt="mooyi07_logo" />
 </h1>
 
-<h1 align="center">Hi there 👋, I'm Lanz Joseph Tarrosa Villanueva</h1>
-<h3 align="center">Computer Engineer | Technological University of the Philippines - Visayas</h3>
+<h1 align="center">Hi there 👋, I'm <span style="color:#0e75b6">Lanz Joseph Tarrosa Villanueva</span></h1>
+<h3 align="center">💻 Computer Engineer | 🎓 Technological University of the Philippines - Visayas</h3>
 
 <p align="center">
-  <a href="https://mooyi.pages.dev/" target="_blank">
-    <img src="https://img.shields.io/badge/Website-Visit-0e75b6?style=for-the-badge&logo=google-chrome&logoColor=white" />
-  </a>
-  <a href="mailto:ljt.villanueva@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-0e75b6?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://mooyi.pages.dev/assets/LJ_RESUME.pdf" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/Resume-Open-0e75b6?style=for-the-badge&logo=readthedocs&logoColor=white" />
-  </a>
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px"/>
 </p>
 
 ---
 
+### 🚀 About Me  
 - 🌱 Currently learning **Node.js**, **React.js**  
-- 👨‍💻 All of my projects are available on my [Portfolio Website](https://mooyi.pages.dev/)  
-- 📫 Reach me at **ljt.villanueva@gmail.com**
+- 👨‍💻 All of my projects are available on my [🌐 Portfolio Website](https://mooyi.pages.dev/)  
+- 📫 Reach me at **ljt.villanueva@gmail.com**  
+- ⚡ Fun fact: I like turning ☕ into code  
 
 ---
 
-<h3 align="center">Connect with me</h3>
-
+### 🌍 Connect with Me  
 <p align="center">
-  <a href="https://twitter.com/mooyi07" target="blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/ljtv" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0e76a8?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://stackoverflow.com/users/21984090" target="blank"><img src="https://img.shields.io/badge/StackOverflow-FE7A16?style=for-the-badge&logo=stackoverflow&logoColor=white" /></a>
-  <a href="https://fb.com/mooyi07" target="blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>
-  <a href="https://instagram.com/lanz_mooyi" target="blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
-  <a href="https://www.youtube.com/@lanzjosephvillanueva5648" target="blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>
-  <a href="https://www.hackerrank.com/mooyi07" target="blank"><img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" /></a>
+  <a href="https://twitter.com/mooyi07"><img src="https://skillicons.dev/icons?i=twitter" width="40"/></a>
+  <a href="https://linkedin.com/in/ljtv"><img src="https://skillicons.dev/icons?i=linkedin" width="40"/></a>
+  <a href="https://stackoverflow.com/users/21984090"><img src="https://skillicons.dev/icons?i=stackoverflow" width="40"/></a>
+  <a href="https://fb.com/mooyi07"><img src="https://skillicons.dev/icons?i=facebook" width="40"/></a>
+  <a href="https://instagram.com/lanz_mooyi"><img src="https://skillicons.dev/icons?i=instagram" width="40"/></a>
+  <a href="https://www.youtube.com/@lanzjosephvillanueva5648"><img src="https://skillicons.dev/icons?i=youtube" width="40"/></a>
+  <a href="https://www.hackerrank.com/mooyi07"><img src="https://skillicons.dev/icons?i=hackerrank" width="40"/></a>
 </p>
 
 ---
 
-<h3 align="center">Languages and Tools</h3>
-
+### 🛠️ Languages and Tools  
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,cpp,java,python,php,mysql,firebase,git,bootstrap,figma,tailwind,arduino" alt="Languages and Tools" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,cpp,java,python,php,mysql,firebase,git,bootstrap,tailwind,figma,arduino" />
 </p>
 
 ---
 
-<h3 align="center">GitHub Stats 📊</h3>
+### 📊 GitHub Stats  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mooyi07&show_icons=true&theme=radical&hide_border=true" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mooyi07&layout=compact&theme=radical&hide_border=true" height="165"/>
+</p>
 
-<div align="center" style="display: flex; justify-content: center; flex-wrap: wrap; gap: 10px;">
-  <img src="https://github-readme-stats.vercel.app/api?username=mooyi07&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mooyi07&layout=compact&theme=radical" alt="Top Languages" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mooyi07&theme=radical" alt="GitHub Streak" />
-</div>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mooyi07&theme=radical&hide_border=true" height="165"/>
+</p>
 
+---
+
+### 🎬 Fun Coding GIF  
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400"/>
+</p>
 
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=mooyi07&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=mooyi07&label=Profile%20views&color=0e75b6&style=flat-square" alt="Profile Views" />
 </p>
