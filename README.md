@@ -3,8 +3,12 @@
   <img src="https://mooyi.pages.dev/assets/logo.webp" width="100" alt="mooyi07_logo" />
 </h1>
 
-<h1 align="center">Hi there 👋, I'm <span style="color:#0e75b6">Lanz Joseph Tarrosa Villanueva</span></h1>
-<h3 align="center">💻 Computer Engineer | 🎓 Technological University of the Philippines - Visayas</h3>
+<!-- Animated Typing Intro -->
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=0e75b6&width=435&lines=Hi+there+👋,+I'm+Lanz+Joseph+Villanueva;Computer+Engineer+💻;Tech+Enthusiast+🚀;Always+Learning+📚" alt="Typing SVG" />
+</h1>
+
+<h3 align="center">🎓 Technological University of the Philippines - Visayas</h3>
 
 <p align="center">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px"/>
@@ -13,9 +17,9 @@
 ---
 
 ### 🚀 About Me  
-- 🌱 Currently learning **Node.js**, **React.js**  
-- 👨‍💻 All of my projects are available on my [🌐 Portfolio Website](https://mooyi.pages.dev/)  
-- 📫 Reach me at **ljt.villanueva@gmail.com**  
+- 🌱 Currently learning **<span style="color:#61dafb">React.js</span>**, **<span style="color:#3c873a">Node.js</span>**  
+- 👨‍💻 All of my projects are available on my [🌐 <span style="color:#0e75b6">Portfolio Website</span>](https://mooyi.pages.dev/)  
+- 📫 Reach me at **<span style="color:#d44638">ljt.villanueva@gmail.com</span>**  
 - ⚡ Fun fact: I like turning ☕ into code  
 
 ---
@@ -23,7 +27,7 @@
 ### 🌍 Connect with Me  
 <p align="center">
   <a href="https://twitter.com/mooyi07"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
-  <a href="https://linkedin.com/in/ljtv"><img src="https://img.shields.io/badge/LinkedIn-0e76a8?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://linkedin.com/in/ljtv"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://stackoverflow.com/users/21984090"><img src="https://img.shields.io/badge/StackOverflow-FE7A16?style=for-the-badge&logo=stackoverflow&logoColor=white"/></a>
   <a href="https://fb.com/mooyi07"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/></a>
   <a href="https://instagram.com/lanz_mooyi"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
@@ -49,9 +53,15 @@
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=mooyi07&theme=radical&hide_border=true" height="165"/>
 </p>
+
+---
+
+### 🎬 Fun Coding GIF  
 <p align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400"/>
 </p>
+
+---
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=mooyi07&label=Profile%20views&color=0e75b6&style=flat-square" alt="Profile Views" />
