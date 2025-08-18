@@ -22,13 +22,13 @@
 
 ### 🌍 Connect with Me  
 <p align="center">
-  <a href="https://twitter.com/mooyi07"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" width="40"/></a>
-  <a href="https://linkedin.com/in/ljtv"><img src="https://img.shields.io/badge/LinkedIn-0e76a8?style=for-the-badge&logo=linkedin&logoColor=white" width="40"/></a>
-  <a href="https://stackoverflow.com/users/21984090"><img src="https://img.shields.io/badge/StackOverflow-FE7A16?style=for-the-badge&logo=stackoverflow&logoColor=white" width="40"/></a>
-  <a href="https://fb.com/mooyi07"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" width="40"/></a>
-  <a href="https://instagram.com/lanz_mooyi"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" width="40"/></a>
-  <a href="https://www.youtube.com/@lanzjosephvillanueva5648"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" width="40"/></a>
-  <a href="https://www.hackerrank.com/mooyi07"><img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" width="40"/></a>
+  <a href="https://twitter.com/mooyi07"><img src="https://skillicons.dev/icons?i=twitter"/></a>
+  <a href="https://linkedin.com/in/ljtv"><img src="https://skillicons.dev/icons?i=linkedin/></a>
+  <a href="https://stackoverflow.com/users/21984090"><img src="https://skillicons.dev/icons?i=stackoverflow"/></a>
+  <a href="https://fb.com/mooyi07"><img src="https://skillicons.dev/icons?i=facebook"/></a>
+  <a href="https://instagram.com/lanz_mooyi"><img src="https://skillicons.dev/icons?i=instagram"/></a>
+  <a href="https://www.youtube.com/@lanzjosephvillanueva5648"><img src="https://skillicons.dev/icons?i=youtube""/></a>
+  <a href="https://www.hackerrank.com/mooyi07"><img src="https://skillicons.dev/icons?i=hackerrank"/></a>
 </p>
 
 ---
