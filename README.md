@@ -49,15 +49,9 @@
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=mooyi07&theme=radical&hide_border=true" height="165"/>
 </p>
-
----
-
-### 🎬 Fun Coding GIF  
 <p align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400"/>
 </p>
-
----
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=mooyi07&label=Profile%20views&color=0e75b6&style=flat-square" alt="Profile Views" />
