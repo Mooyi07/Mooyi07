@@ -5,7 +5,7 @@
 
 <!-- Animated Typing Intro -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=0e75b6&width=435&lines=Hi+there+👋,+I'm+Lanz+Joseph+Villanueva+;Computer+Engineer+💻;Tech+Enthusiast+🚀;Always+Learning+📚" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=0e75b6&width=500&lines=Hi+there+👋,+I'm+Lanz+Joseph+Villanueva;Computer+Engineer+💻;Tech+Enthusiast+🚀;Always+Learning+📚" alt="Typing SVG" />
 </h1>
 
 <h3 align="center">🎓 Technological University of the Philippines - Visayas</h3>
