@@ -3,7 +3,7 @@
   <img src="https://mooyi.pages.dev/assets/logo.webp" width="100" alt="mooyi07_logo" />
 </h1>
 
-# Hi there 👋, I'm Lanz Joseph Villanueva  
+<h1 align="center">Hi there 👋, I'm Lanz Joseph Villanueva</h1>
 
 - 💻 Computer Engineer  
 - 🚀 Tech Enthusiast  
