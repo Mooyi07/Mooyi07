@@ -3,10 +3,11 @@
   <img src="https://mooyi.pages.dev/assets/logo.webp" width="100" alt="mooyi07_logo" />
 </h1>
 
-<!-- Animated Typing Intro -->
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=0e75b6&width=500&lines=Hi+there+👋,+I'm+Lanz+Joseph+Villanueva;Computer+Engineer+💻;Tech+Enthusiast+🚀;Always+Learning+📚" alt="Typing SVG" />
-</h1>
+# Hi there 👋, I'm Lanz Joseph Villanueva  
+
+- 💻 Computer Engineer  
+- 🚀 Tech Enthusiast  
+- 📚 Always Learning  
 
 <h3 align="center">🎓 Technological University of the Philippines - Visayas</h3>
 
