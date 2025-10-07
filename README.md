@@ -40,8 +40,9 @@
 
 ### 🛠️ Languages and Tools  
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,cpp,java,python,php,mysql,firebase,git,bootstrap,tailwind,figma,arduino" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,vue,vite,cpp,c,java,python,php,mysql,mongodb,firebase,supabase,bootstrap,tailwind,sass,figma,photoshop,sketchup,git,github,cloudflare,vercel,wordpress,npm,vscode,eclipse,windows,arduino,tensorflow,pytorch,sklearn,opencv,jquery,svg,gmail,discord,instagram,linkedin,stackoverflow" />
 </p>
+
 
 ---
 
