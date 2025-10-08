@@ -1,6 +1,6 @@
 <!-- Profile Header -->
 <h1 align="center">
-  <img src="https://mooyi.pages.dev/assets/logo.webp" width="100" alt="mooyi07_logo" />
+  <img src="https://mooyi.pages.dev/assets/logo.webp" width="100%" alt="mooyi07_logo" />
 </h1>
 
 <h1 align="center">Hi there 👋, I'm Lanz Joseph Villanueva</h1>
